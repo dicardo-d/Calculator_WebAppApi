@@ -1,0 +1,12 @@
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/bin/Debug/net6.0/Calculator_Logic.deps.json
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/bin/Debug/net6.0/Calculator_Logic.dll
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/bin/Debug/net6.0/Calculator_Logic.pdb
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/obj/Debug/net6.0/Calculator_Logic.csproj.AssemblyReference.cache
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/obj/Debug/net6.0/Calculator_Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/obj/Debug/net6.0/Calculator_Logic.AssemblyInfoInputs.cache
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/obj/Debug/net6.0/Calculator_Logic.AssemblyInfo.cs
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/obj/Debug/net6.0/Calculator_Logic.csproj.CoreCompileInputs.cache
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/obj/Debug/net6.0/Calculator_Logic.dll
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/obj/Debug/net6.0/refint/Calculator_Logic.dll
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/obj/Debug/net6.0/Calculator_Logic.pdb
+/Users/divyakhemani/Projects/Calculator_WebAppApi/Calculator_Logic/obj/Debug/net6.0/ref/Calculator_Logic.dll
